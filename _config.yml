@@ -1,6 +1,6 @@
 name: createdhuman
 favicon: null
-layout_spectrum: 0.2396
+layout_spectrum: 0.49819
 typography_spectrum: 0.5145241655409336
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#70191f'
+    - '#2c6331'
+    - '#7e8aa2'
+    - '#313e4f'
+    - '#555150'
   brandStrength: 0.7518668184056878
   lightness: 0.20570118515752256
   saturation: 0.7700894598383456
